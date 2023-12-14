@@ -16,6 +16,9 @@ The model is valid for the whole Earth history
 The model is available in two resolutions:
 e180 (180 pixels at the equatorial ring),
 and e120.
+For reference,
+Pixel IDs are stored as `pixel-ids-xxx.tab`,
+in which `xxx` is used to indicate the resolution.
 
 ## File description
 
